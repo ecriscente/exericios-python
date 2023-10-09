@@ -1,4 +1,4 @@
-# exericios-python
+# exercicios-python
 
 clone o repositório
 
@@ -18,6 +18,6 @@ instale as dependências
 
 execute os exercícios:
 
-`python exercitio1.py`
+`python exercicio1.py`
 
 `python exercicio2.py`
