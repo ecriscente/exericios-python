@@ -6,7 +6,11 @@ clone o repositório
 
 inicie um ambiente virtual
 
-`python3 -m venv [path]`
+`python3 -m venv [caminho]`
+
+execute o ambiente virtual
+
+`source [caminho]/bin/activate` (apenas para Linux)
 
 instale as dependências
 
