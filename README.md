@@ -8,4 +8,5 @@ instale as dependências `pip intall -r requirements.txt`
 
 execute os exercícios:
 `python exercitio1.py`
+
 `python exercicio2.py`
